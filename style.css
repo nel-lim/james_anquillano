@@ -9,6 +9,7 @@ body{
     height: 100%;
     display: block;
     overflow-wrap: break-word;
+    
 }
 
 a, li{
@@ -43,7 +44,11 @@ nav ul{
 }
 
 nav ul, li{
+    font-family: "Gotu";
+}
 
+nav ul, li a{
+    padding: 0px 24px;
 }
 
 /*HERO*/
@@ -67,6 +72,8 @@ nav ul, li{
     color: #000000;
     width: 1010px;
     text-align: center;
+    font-family: "Gotu";
+    margin-top: 75.5px;
 }
 
 .hero_paragraph{
@@ -115,10 +122,11 @@ for final hands-on exam*/
 #middle_container{
      max-width: 1440px;
      margin: 0 auto;
+     font-family: "Gotu";
 }
 
 #middle_container .middle_section, .middle_second, .middle_third{
-   background: url(images/picture3.png) no-repeat top / cover;
+   background: url(img/picture3.png) no-repeat top / cover;
    height: 700px;
 }
 
@@ -139,6 +147,7 @@ for final hands-on exam*/
     width: 786px;
     line-height: 90px;
     color: white;
+    
 }
 
 #middle_container .middle_paragraph{
@@ -152,7 +161,7 @@ for final hands-on exam*/
 }
 
 #middle_container .middle_second{
-    background: url(img/.png) no-repeat top / cover;
+    background: url(img/picture2.png) no-repeat top / cover;
     margin: auto;
 }
 
@@ -181,7 +190,7 @@ for final hands-on exam*/
 }
 
 #middle_container .middle_third{
-    background: url(img//picture1.png) no-repeat top / cover;;
+    background: url(img/picture1.png) no-repeat top / cover;
     margin: 0 auto;
 }
 
@@ -208,6 +217,7 @@ for final hands-on exam*/
 /*CONTACT*/
 
 #contact_container{
+    font-family: "Gotu";
     margin: 0 auto;
 }
 
@@ -235,6 +245,7 @@ for final hands-on exam*/
 /*FOOTER*/
 
 #footer_container{
+    font-family: "Gotu";
     width: 1440px;
     margin: 0 auto;
     background-color: black;

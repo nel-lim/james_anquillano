@@ -1,5 +1,8 @@
+/*instructor john nel lim 
+for final hands-on exam*/
+
 body{
-    font-family: 'Gotu', sans-serif;
+    font-family: '', sans-serif;
     margin: 0;
     max-width: 100%;
     overflow-x: hidden;
@@ -40,10 +43,7 @@ nav ul{
 }
 
 nav ul, li{
-    padding-left: 23.5px;
-    padding-right: 23.5px;
-    display: inline-block;
-	vertical-align: middle;
+
 }
 
 /*HERO*/
@@ -62,8 +62,6 @@ nav ul, li{
 }
 
 #hero, .hero_heading{
-    margin-top: 75.5px;
-    margin-bottom: 0px;
     font-size: 68px;
     line-height: 96px;
     color: #000000;
@@ -109,6 +107,9 @@ nav ul, li{
     transition: 300ms;
 }
 
+/*instructor john nel lim 
+for final hands-on exam*/
+
 /*MIDDLE SECTION*/
 
 #middle_container{
@@ -117,7 +118,7 @@ nav ul, li{
 }
 
 #middle_container .middle_section, .middle_second, .middle_third{
-   background: url(img/picture3.png) no-repeat top / cover;
+   background: url(images/picture3.png) no-repeat top / cover;
    height: 700px;
 }
 
@@ -151,7 +152,7 @@ nav ul, li{
 }
 
 #middle_container .middle_second{
-    background: url(img/picture2.png) no-repeat top / cover;
+    background: url(img/.png) no-repeat top / cover;
     margin: auto;
 }
 
@@ -180,7 +181,7 @@ nav ul, li{
 }
 
 #middle_container .middle_third{
-    background: url(img/picture1.png) no-repeat top / cover;;
+    background: url(img//picture1.png) no-repeat top / cover;;
     margin: 0 auto;
 }
 
@@ -294,3 +295,7 @@ nav ul, li{
     margin-left: 80px;
 
 }
+
+
+/*instructor john nel lim 
+for final hands-on exam*/
